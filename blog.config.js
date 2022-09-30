@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'Enzoding的博客',
   author: 'Enzoding',
-  email: 'dxl20230805@163.com',
+  email: '1649717343@qq.com',
   link: 'https://peaceding.top',
   description: '一个写字的地方',
   lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
