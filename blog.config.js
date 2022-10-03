@@ -14,7 +14,6 @@ const BLOG = {
   postsPerPage: 10,
   sortByDate: false,
   showAbout: true,
-  showPhoto: true,
   showArchive: true,
   autoCollapsedNavBar: false, // The automatically collapsed navigation bar
   ogImageGenerateURL: 'https://og-image-craigary.vercel.app', // The link to generate OG image, don't end with a slash
