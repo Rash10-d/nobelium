@@ -9,8 +9,8 @@ const NavBar = () => {
     { id: 0, name: locale.NAV.INDEX, to: BLOG.path || '/', show: true },
     { id: 1, name: locale.NAV.ABOUT, to: '/about', show: BLOG.showAbout },
     { id: 2, name: locale.NAV.RSS, to: '/feed', show: true },
-    { id: 3, name: locale.NAV.SEARCH, to: '/search', show: true },
-    { id: 4, name: locale.NAV.PHOTO, to: 'https://peaceding.notion.site/3b8f00923b0f429c875a38afbc8f7a98', show: true }
+    { id: 3, name: locale.NAV.PHOTO, to: 'https://peaceding.notion.site/3b8f00923b0f429c875a38afbc8f7a98', show: true },
+    { id: 4, name: locale.NAV.SEARCH, to: '/search', show: true }
   ]
   return (
     <div className="flex-shrink-0">
