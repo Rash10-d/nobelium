@@ -1,5 +1,5 @@
 const BLOG = {
-  title: 'Enzoding的博客',
+  title: 'Enzoding的Blog',
   author: 'Enzoding',
   email: '1649717343@qq.com',
   link: 'https://peaceding.top',
